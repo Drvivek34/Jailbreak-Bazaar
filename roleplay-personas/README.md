@@ -16,4 +16,7 @@ roleplay-personas/
 Add via the [contribution guide](../CONTRIBUTING.md) or the [submission form](https://github.com/Drvivek34/Jailbreak-Bazaar/issues/new/choose). **Submissions without a mitigation/defense section will be rejected.**
 
 ## Entries
-_No entries yet._
+
+| Entry | Description |
+|---|---|
+| [Roleplay Persona Adoption](roleplay-persona-adoption/) | Adopting a persona or simulation environment (e.g. 'Do Anything Now' / DAN) where the constraints of the main model are described as inactive. |

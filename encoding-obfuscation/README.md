@@ -16,4 +16,7 @@ encoding-obfuscation/
 Add via the [contribution guide](../CONTRIBUTING.md) or the [submission form](https://github.com/Drvivek34/Jailbreak-Bazaar/issues/new/choose). **Submissions without a mitigation/defense section will be rejected.**
 
 ## Entries
-_No entries yet._
+
+| Entry | Description |
+|---|---|
+| [Base64 Encoding](base64-encoding/) | Translating instructions into Base64 encoding to bypass shallow lexical input filters that scan for blocked keywords. |

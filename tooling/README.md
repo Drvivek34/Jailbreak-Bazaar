@@ -16,4 +16,5 @@ tooling/
 Add via the [contribution guide](../CONTRIBUTING.md) or the [submission form](https://github.com/Drvivek34/Jailbreak-Bazaar/issues/new/choose). **Submissions without a mitigation/defense section will be rejected.**
 
 ## Entries
-_No entries yet._
+
+_No entries yet — be the first to contribute!_

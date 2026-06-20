@@ -16,4 +16,7 @@ payload-splitting/
 Add via the [contribution guide](../CONTRIBUTING.md) or the [submission form](https://github.com/Drvivek34/Jailbreak-Bazaar/issues/new/choose). **Submissions without a mitigation/defense section will be rejected.**
 
 ## Entries
-_No entries yet._
+
+| Entry | Description |
+|---|---|
+| [Payload Splitting](payload-splitting/) | Splitting a sensitive phrase/instruction into multiple benign parts and asking the LLM to concatenate them and execute the result. |
