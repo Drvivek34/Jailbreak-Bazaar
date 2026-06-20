@@ -1,0 +1,80 @@
+name: "➕ Submit a Technique (research)"
+description: "Add an LLM red-team technique to the Jailbreak Bazaar — for authorized safety testing only."
+title: "[Technique] <name>"
+labels: ["submission", "research"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ⚠️ Authorized safety research only
+        This bazaar exists to help **defenders** test and harden LLMs. Submissions
+        **must** document a mitigation/defense and **must not** target real people,
+        systems you don't own, or facilitate concrete real-world harm. Off-topic or
+        harmful submissions will be rejected and may be reported.
+  - type: input
+    id: name
+    attributes:
+      label: Technique name
+      placeholder: "e.g. crescendo-multi-turn"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source / paper / URL
+      description: Prefer a citation to published research where possible.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - prompt-injection
+        - instruction-override
+        - roleplay-personas
+        - encoding-obfuscation
+        - context-manipulation
+        - multi-turn-attacks
+        - payload-splitting
+        - system-prompt-extraction
+        - refusal-suppression
+        - data-exfiltration
+        - tool-agent-abuse
+        - model-specific
+        - defenses-mitigations
+        - benchmarks-datasets
+        - tooling
+        - misc
+    validations:
+      required: true
+  - type: input
+    id: affected
+    attributes:
+      label: Affected models / versions
+      placeholder: "e.g. tested on open-weights model X v1.2"
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Technique summary
+      description: What it is and how it works at a conceptual level.
+    validations:
+      required: true
+  - type: textarea
+    id: mitigation
+    attributes:
+      label: Mitigation / defense (REQUIRED)
+      description: How defenders detect, prevent, or harden against this. Submissions without this are rejected.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This is for authorized testing / safety research and includes a mitigation.
+          required: true
+        - label: This does not target real people or systems I am not authorized to test.
+          required: true
