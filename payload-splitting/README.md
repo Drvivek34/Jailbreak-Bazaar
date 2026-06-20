@@ -20,3 +20,4 @@ Add via the [contribution guide](../CONTRIBUTING.md) or the [submission form](ht
 | Entry | Description |
 |---|---|
 | [Payload Splitting](payload-splitting/) | Splitting a sensitive phrase/instruction into multiple benign parts and asking the LLM to concatenate them and execute the result. |
+| [Payload Splitting Attack](payload-splitting-attack/) | Splits a forbidden term or instruction into multiple variables, stitching them together inside the prompt template. |

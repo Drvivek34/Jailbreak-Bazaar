@@ -20,3 +20,4 @@ Add via the [contribution guide](../CONTRIBUTING.md) or the [submission form](ht
 | Entry | Description |
 |---|---|
 | [Base64 Encoding](base64-encoding/) | Translating instructions into Base64 encoding to bypass shallow lexical input filters that scan for blocked keywords. |
+| [Base64 Encoding Bypass](base64-encoding-bypass/) | Bypasses safety triggers by encoding instructions in Base64 and instructing the model to decode and execute them. |

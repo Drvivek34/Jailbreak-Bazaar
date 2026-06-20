@@ -19,4 +19,5 @@ Add via the [contribution guide](../CONTRIBUTING.md) or the [submission form](ht
 
 | Entry | Description |
 |---|---|
+| [Dan Persona Bypass](dan-persona-bypass/) | Forces models to operate under a simulated unaligned persona (DAN) that ignores all safety guidelines. |
 | [Roleplay Persona Adoption](roleplay-persona-adoption/) | Adopting a persona or simulation environment (e.g. 'Do Anything Now' / DAN) where the constraints of the main model are described as inactive. |
