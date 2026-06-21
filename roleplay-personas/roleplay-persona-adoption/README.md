@@ -9,7 +9,7 @@ Adopting a persona or simulation environment (e.g. 'Do Anything Now' / DAN) wher
 - **Source URL**: [https://arxiv.org/abs/2401.06373](https://arxiv.org/abs/2401.06373)
 - **Author**: Shen et al.
 - **License**: Creative Commons / Citation Only
-- **Date Added**: 2026-06-20
+- **Date Added**: 2026-06-21
 
 ## Mitigation & Defense
 > [!IMPORTANT]

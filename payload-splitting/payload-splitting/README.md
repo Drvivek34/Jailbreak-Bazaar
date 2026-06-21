@@ -9,7 +9,7 @@ Splitting a sensitive phrase/instruction into multiple benign parts and asking t
 - **Source URL**: [https://arxiv.org/abs/2310.03693](https://arxiv.org/abs/2310.03693)
 - **Author**: Safety Benchmark Authors
 - **License**: Creative Commons / Citation Only
-- **Date Added**: 2026-06-20
+- **Date Added**: 2026-06-21
 
 ## Mitigation & Defense
 > [!IMPORTANT]

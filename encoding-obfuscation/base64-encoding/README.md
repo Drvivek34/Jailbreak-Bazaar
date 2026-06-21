@@ -9,7 +9,7 @@ Translating instructions into Base64 encoding to bypass shallow lexical input fi
 - **Source URL**: [https://arxiv.org/abs/2307.02483](https://arxiv.org/abs/2307.02483)
 - **Author**: Academic Researchers
 - **License**: Creative Commons / Citation Only
-- **Date Added**: 2026-06-20
+- **Date Added**: 2026-06-21
 
 ## Mitigation & Defense
 > [!IMPORTANT]

@@ -9,7 +9,7 @@ Injecting adversarial instructions into external text (web pages, files) retriev
 - **Source URL**: [https://arxiv.org/abs/2302.12173](https://arxiv.org/abs/2302.12173)
 - **Author**: Greshake et al.
 - **License**: Creative Commons / Citation Only
-- **Date Added**: 2026-06-20
+- **Date Added**: 2026-06-21
 
 ## Mitigation & Defense
 > [!IMPORTANT]
